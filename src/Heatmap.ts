@@ -1,6 +1,6 @@
 import * as L from 'leaflet'
 /// <reference path="simpleheat.d.ts"/>
-import SimpleHeat, { Gradient } from 'simpleheat-gradient-opacity'
+import SimpleHeat, { Gradient } from 'simpleheat'
 
 export { SimpleHeat, Gradient }
 

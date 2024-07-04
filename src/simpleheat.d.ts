@@ -1,4 +1,4 @@
-declare module 'simpleheat-gradient-opacity' {
+declare module 'simpleheat' {
   export type Gradient = { [stop: number]: string }
   export type Point = [number, number, number]
 
