@@ -1,4 +1,4 @@
-declare module 'simpleheat' {
+declare module '@pauloak_/simpleheat' {
   export type Gradient = { [stop: number]: string }
   export type Point = [number, number, number]
 
