@@ -1,6 +1,6 @@
 {
   "name": "@pauloak_/react-leaflet-heatmap-layer",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "A custom layer for heatmaps in react-leaflet",
   "main": "cjs/index.js",
   "module": "esm/index.js",
@@ -84,6 +84,6 @@
     "typescript": "^4.1.5"
   },
   "dependencies": {
-    "simpleheat-gradient-opacity": "^0.1.1"
+    "@pauloak_/simpleheat": "^0.5.1"
   }
 }
