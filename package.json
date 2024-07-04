@@ -1,5 +1,5 @@
 {
-  "name": "@pauloak/react-leaflet-heatmap-layer",
+  "name": "@pauloak_/react-leaflet-heatmap-layer",
   "version": "4.0.3",
   "description": "A custom layer for heatmaps in react-leaflet",
   "main": "cjs/index.js",
